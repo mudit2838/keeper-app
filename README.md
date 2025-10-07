@@ -4,6 +4,13 @@ A fully functional, responsive, and elegant **note-taking app** built with React
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of the Keeper App hosted on Vercel:
+
+[View on Vercel](https://keeper-app-coral-gamma.vercel.app)
+
+
 
 ## 🚀 Objective
 The goal of this project is to create a **Keeper App** that helps users manage their notes in an intuitive and visually appealing way while demonstrating modern React development practices.
